@@ -5,7 +5,7 @@
     <artifactId>wabisabi_2.10</artifactId>
     <packaging>jar</packaging>
     <description>wabisabi</description>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>wabisabi</name>
     <organization>
         <name>wabisabi</name>
